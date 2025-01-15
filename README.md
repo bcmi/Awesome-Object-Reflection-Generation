@@ -1,7 +1,7 @@
 # Awesome Object Reflection Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources including papers, datasets, and relevant links pertaining to object reflection generation, which aims to generate plausible reflection for the inserted foreground object in a composite image. For more complete resources on general 
-image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
+image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Insertion)), please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
 
 
 ## Contributing
