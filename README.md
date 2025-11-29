@@ -9,9 +9,14 @@ image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Ins
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 ## Table of Contents
++ [Online Demo](#Online-demo)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
+
+## Online Demo
+
+Try this [online demo](http://libcom.ustcnewly.com/) for image composition and have fun!
  
 ## Papers
 + Ankit Dhiman, Manan Shah, R Venkatesh Babu: "*MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World.*" CVPR (2025) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Dhiman_MirrorVerse_Pushing_Diffusion_Models_to_Realistically_Reflect_the_World_CVPR_2025_paper.pdf) [[code]](https://github.com/val-iisc/MirrorVerse)
